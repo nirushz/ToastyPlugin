@@ -2,8 +2,9 @@
 
 * cordova plugin for creating toast masseges
 
-* Usege:
-window.plugins.toastyPlugin.show('YOUR TEXT HERE', 'long'/'short', succes func, error func)
+Usege:
+
+window.plugins.toastyPlugin.show('YOUR TEXT HERE', 'long'/'short',  success func, error func)
 
 For Example:
 ```js
