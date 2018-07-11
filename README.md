@@ -1,0 +1,2 @@
+# ToastyPlugin
+cordova plugin
