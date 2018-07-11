@@ -1,2 +1,8 @@
 # ToastyPlugin
-cordova plugin
+
+* cordova plugin for creating toast masseges
+
+* Usege:
+```js
+
+```
